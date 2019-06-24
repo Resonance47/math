@@ -1,2 +1,3 @@
 # math
 to be co...
+file matrixXvect returns the result of matrix-vector multiplication. IMPORTANT: the program is not optimized, there may be errors due to incorrect data entry
