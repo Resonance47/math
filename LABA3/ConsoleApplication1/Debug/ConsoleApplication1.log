@@ -1,0 +1,4 @@
+﻿  ConsoleApplication1.cpp
+C:\Users\Admin\source\repos\LETI\LABA3\ConsoleApplication1\ConsoleApplication1.cpp(14,17): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\LETI\LABA3\ConsoleApplication1\ConsoleApplication1.cpp(6,9): warning C4101: j: неиспользованная локальная переменная
+  ConsoleApplication1.vcxproj -> C:\Users\Admin\source\repos\LETI\LABA3\Debug\ConsoleApplication1.exe
